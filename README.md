@@ -2,7 +2,7 @@
 
 Hello! I'm Vijay Kumar, a passionate developer currently pursuing BCA Honors (2nd Year). I am dedicated to creating innovative and high-quality web applications. I love working with modern technologies and am always eager to learn new skills and improve my craft.
 
-**Age:** [Your Age]
+**Age:** 22
 
 ## 🚀 Skills & Technologies
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, EJS
